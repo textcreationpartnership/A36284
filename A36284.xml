@@ -1,0 +1,418 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Don Samuel Crispe, or, The Pleasant history, of the Knight of fond love adorned and embellished with sundry rare and delightful adventures.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36284</idno>
+            <idno type="STC">Wing D1846</idno>
+            <idno type="STC">ESTC R32814</idno>
+            <idno type="EEBO-CITATION">12770053</idno>
+            <idno type="OCLC">ocm 12770053</idno>
+            <idno type="VID">93630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1033:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Don Samuel Crispe, or, The Pleasant history, of the Knight of fond love adorned and embellished with sundry rare and delightful adventures.</title>
+               </titleStmt>
+               <extent>[27] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLX [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Foreword signed by Sam. Crisp.</note>
+                  <note>Imperfect: pages stained with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93630:1"/>
+            <pb facs="tcp:93630:1"/>
+            <p>Don Samuel Criſpe: Or, The Pleaſant HISTORY Of the KNIGHT OF FOND LOVE. Adorned and Embelliſhed with Sun<g ref="char:EOLhyphen"/>dry Rare and Delightful ADVENTURES</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCLX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93630:2"/>
+            <pb facs="tcp:93630:2"/>
+            <head>To all the Madams, Ladies and Gen<g ref="char:EOLhyphen"/>tlewomen in <hi>England, Scotland</hi> and <hi>Ireland,</hi> and the Dominions thereunto belonging.</head>
+            <opener>
+               <salute>Madams, fair Ladies, and Gentlewomen,</salute>
+            </opener>
+            <p>
+               <hi>THere is a Proverb which ſaith, That</hi> ſome are wiſe, and ſome are otherwiſe: <hi>Whence I infer, that all men are not wiſe, but that there are ſome Fools in the world. The Provi<g ref="char:EOLhyphen"/>dence of Nature was great, to chequer the world with ſuch variety. For how could wiſemen recreate their ſerious Contemplations, were not ſome men born to make them merry with their folly? I know, Ladies, you do not alwayes con<g ref="char:EOLhyphen"/>template upon</hi> Brightman, <hi>alwayes read</hi> Love'<hi>s Works; there is a time when you exhilarate your ſelves with looking on the labours of S.</hi> George, Palmerin <hi>of</hi> England, Bevis <hi>of</hi> South<g ref="char:EOLhyphen"/>hampton, Don Quixot, <hi>and the like: Now had all the world been</hi> Plato's, Solon's, Calvin's
+<pb facs="tcp:93630:3"/> and <hi>Calamy's,</hi> what would you have done for the merry humours of theſe men?</p>
+            <p>Therefore that I might no longer hide my light under a Buſhel, but be uſeful in my Generation, and ſhew to the world that there was ſuch a man as my ſelf, upon Earth, I have here made bold to preſent you with the choiceſt Flowers of my <hi>Amorous Frolicks;</hi> and to ſet theſe my Ad<g ref="char:EOLhyphen"/>ventures as ſo many <hi>Centinels</hi> to guard Melan<g ref="char:EOLhyphen"/>choly from your thoughts.</p>
+            <p>If I have not acted my part ſo fully to my intentions, as I ought, upon the Stage of the World; Ladies, I beg your pardon, deſiring you to tell me where I have fail'd, and to impoſe your further Commands upon,</p>
+            <closer>
+               <salute>Ladies,</salute>
+               <signed>Your Sempiternal Vaſſal, SAM. CRISP.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93630:3"/>
+            <head>
+               <hi>Don</hi> SAMUEL CRISPE: OR, THE PLEASANT HISTORY OF <hi>The Knight of Fond Love.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. 1.</head>
+               <argument>
+                  <p>Of the Birth, Parentage and Education of the Knight of Fond Love.</p>
+               </argument>
+               <p>IN the Reign of <hi>Oliver,</hi> Protector of <hi>England,</hi> there dwelt in the famous City of <hi>London,</hi> the chief Me<g ref="char:EOLhyphen"/>tropolis thereof, a Gentleman, who being well skilled in the Art of Phyſick, firſt got Practice, then a Wife, and then Children.</p>
+               <p>His name was <hi>Criſpe:</hi> ſome ſay, Of the ancient Family of <hi>Criſpus Saluſtius;</hi> though Antiquity hath quite worn away <hi>Saluſt,</hi> and left one <hi>Criſpe</hi> behinde.</p>
+               <p>Among the reſt of his Iſſue, he had thrée ſons; the elder chriſtened <hi>Toby,</hi> the younger ycleped <hi>Samuel,</hi> and the young<g ref="char:EOLhyphen"/>eſt ſirnamed <hi>Rowland.</hi>
+               </p>
+               <p>It is reported, that the Mother, while ſhe was with child of theſe two ſtriplings, dreamt that ſhe brought forth two lumps of Chalk, and a pound of Pomecitron: upon which ſhe went to an Aſtrologer, who did thereupon portend the ſwéetneſs of the young mens diſpoſitions, and that they ſhould be long'd after, by young Virgins.</p>
+               <p>All theſe, as they grew up, grew ſtraight and proper; and for their Faces, they ſéem'd, if they pleas'd, made to ſave charges; for they were ſo good, they néeded no Bands. Their
+<pb facs="tcp:93630:4"/> Father was not forgetful in their younger years to inſtil in<g ref="char:EOLhyphen"/>to them ſhe wholeſome Precepts contained in the Pſalter, Primer and Hornbook, as well for inſtruction, as to make them capable of reading their Mother Language. But as they grew in years, higher Deſignes crept into their pates; and they reſolved to enrich themſelves with ſuch accompliſh<g ref="char:EOLhyphen"/>ments as ſhould make them eminent. Prudently therefore conſidering at what mark to aim, in the firſt place, they re<g ref="char:EOLhyphen"/>ject Natural Philoſophy, as too ſerious; they ſpurn away the Mathematicks, as too hard a Science for their tender capa<g ref="char:EOLhyphen"/>cities; they kick away Law, calling the Terme thereof, Conjuring. Being thus in a déep Debate, quoth <hi>Toby</hi> to <hi>Samuel:</hi>
+               </p>
+               <p>As I am elder then you, ſo I may perhaps ſpeak as wiſely as you: 'Tis true, I am a Merchant, yet I have idle time e<g ref="char:EOLhyphen"/>nough to ſpare, and can follow any other handſome imploy<g ref="char:EOLhyphen"/>ment, to waſte leiſure-hours: Some men follow drinking; but I cannot maintain quarrels, and therefore I like it not. Some follow gaming; but there's miſchief and danger in that, too, eſpecially if a man queſtion the Dice; ſo that I abjure it. Therefore I am of opinion, that there is no Art ſo ſuitable to our Diſpoſitions, as the Art of Love; 'Tis a fine Calling, and a civil: for, Ladies, Brothers, will not only not fight, but love; and doubtleſs love us, being proper and handſome: Beſides, Brother, as I take it, there is a Duty lying upon young men, to ſerve and wait upon young Ladies and Gentlewomen.</p>
+               <p>
+                  <hi>Toby</hi> having ended this Spéech, <hi>Samuel</hi> ſhouted for joy, ſaying to his Brother, that he was wiſer then <hi>Solomon,</hi> and had more diſcretion then his <hi>Nameſake,</hi> who was Iudge of <hi>Iſrael:</hi> But Brother, two heads are better then one; and therefore, as you have begun the invention, you ſhall ſée how bravely I will contride the reſt: For you muſt know, Bro<g ref="char:EOLhyphen"/>ther, that before we can practiſe this Art, to wait upon La<g ref="char:EOLhyphen"/>dies, as we ſhould do, we muſt be knighted, and aſſume unto our ſelves certain Titles, after we have ſtudied thoſe things which are moſt requiſite to accompliſh us. Thus was St. <hi>George</hi> knighted before he could conquer the Dragon, for the
+<pb facs="tcp:93630:4"/> Kings Daughters ſake, and was called, <hi>The Knight of the Red Croſs.</hi> So likewiſe, the Grocers Apprentice, before he could be fit to wait on his Miſtruſſes daughter, was knigh<g ref="char:EOLhyphen"/>ted, and called, <hi>The Knight of the Burning Peſtle.</hi> Firſt, therefore, let us learn to dance, then let us read the ſeveral Books and Treatiſes that may better our complemental Language, and then I ſhall not queſtion but to find out ſome perſon or other, who may give us our Order.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>How theſe two young men proceeded in their Studies, and how they were dubb'd by Sir <hi>Pemmel,</hi> Knight of the <hi>Eleemoſynary Ale.</hi>
+                  </p>
+               </argument>
+               <p>WIth this intention they went to Sir <hi>Channel,</hi> Knight of the <hi>Kitt and Fiddle,</hi> who being a man of great expe<g ref="char:EOLhyphen"/>rience, and more knowing in his Art, then the ſeven wiſe Men of Greece, and withal, méeting with prompt wits and nimble héels, obtained great Renown, and cauſed their Re<g ref="char:EOLhyphen"/>putation to dilate it ſelf, both far and near. Onely one thing griev'd him, that whereas he thought to have made them Maſters of the Harmonious Caſtanets, their capaci<g ref="char:EOLhyphen"/>ties could never reach to do any thing worth hearing, upon thoſe Inſtruments. However, they were not unmindeful to buy up the choiceſt Books of Complements, yet not with ſuch a prodigality, as to give the <hi>Bookſeller</hi> what ever he ask'd, but warily beating him down to the loweſt price well knowing, that thoſe who were too laviſh in their youth, might come to want in their old age, according to the Doctrine of <hi>John De Moon.</hi> The next men conſulted withel, were Millen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs, touching the variety and priority of colours; and the inſtructions which they received from them, were wrote down in Table-Books, and con'd every morning before they ſaid their Prayers: becauſe their choiceſt <hi>Memorandums</hi> were alwayes laid up next their hearts. The next thing
+<pb facs="tcp:93630:5"/> they did, was the choice of an able and knowing Taylors a man of good intelligence, as to the Faſhion, without whoſe aſſiſtance, they could never be truly accompliſh'd; one good ſuit of Cloaths doing a man more credit, then all the Gréek and Latine that ever was ſpoke ſince the deſtruction of <hi>Troy.</hi> But Lord, to ſée how coy Fortune is to ſome, how frée to others! Theſe Perſons could no ſooner wiſh but have: For going to <hi>Fleetſtreet,</hi> one of theſe young perſons happened to be adry; and ſeeking for an Ale-houſe, they lighted in at the ſign of the <hi>Buff-coat:</hi> they called for Ale; 'twas asked whether <hi>Eleemoſynary,</hi> or other Ale? they replyed, What Ale's that? quoth the Squire, This is the Caſtle of Sir <hi>Pemmel,</hi> Knight of the <hi>Eleemoſynary</hi> Ale, as being that Liquor with which moſt commonly, he relieves diſtreſſed Knights: where<g ref="char:EOLhyphen"/>upon they ſent for the Knight, who coming courteouſly unto them, they demanded ſeveral Queſtions; and among the reſt, whether he had power to make Knights. Sir <hi>Pemmel</hi> re<g ref="char:EOLhyphen"/>plyed, That he had; and that, if they pleas'd, he could erect new Orders: at which they received great ſatisfaction, de<g ref="char:EOLhyphen"/>ſtring to be made Knights alſo: and having heard a Cata<g ref="char:EOLhyphen"/>logue of Orders read to them, they at length pitched upon the <hi>Order of Fond Love:</hi> which being determined, the Laws were produced and read.</p>
+               <list>
+                  <item>1. That they ſhould never ſpeak ſence to any Lady they went to viſit.</item>
+                  <item>2. That they ſhould give their Ladies often Treatments, and not minde what they ſpend upon them.</item>
+                  <item>3. That they go every day to the <hi>Exchange,</hi> to ſee the ex<g ref="char:EOLhyphen"/>act Modes of Whisks, and Trimmings of Gloves, and give their Ladies information accordingly.</item>
+                  <item>4. That their Handkerchiefs be alwayes perfum'd with Orange flower-water.</item>
+                  <item>5. That they love every Lady they ſee; and that they have not ſo bad an opinion of the ſaid Ladies, as to believe they do not love them again.</item>
+               </list>
+               <p>Thoſe Laws being read, their Cars were ſtop'd with
+<pb facs="tcp:93630:5"/> black Wool, leſt any thing contrary to theſe Orders ſhould enter into them; which being done, they were bid to knéel, when lo, in came Sir <hi>Pemmel,</hi> and laying the Fire-Fork on their ſhoulders, bid them, <hi>Riſe up Sir Toby, and Sir Samuel Cripſe, Knights of the Order of Fond Love.</hi> After this, they thank'd Sir <hi>Pemmel</hi> for his civility, and gave the Squire the odde peny which was over and above the reckon<g ref="char:EOLhyphen"/>ing, and ſo departed. Then reſolving to have but one Squire betwéen them, to ſave charges, they went and hired <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, who readily agrée'd to ſerve them for five ſhillings a quarter, and their old ſilk Stockings.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel Criſpe</hi> fell in love with the fair Lady Eliza<g ref="char:EOLhyphen"/>betha.</p>
+               </argument>
+               <p>'TWas now the time when the Sun, tir'd with his tedi<g ref="char:EOLhyphen"/>ous Summer marches, goes to bed before ſix, and ri<g ref="char:EOLhyphen"/>ſes not till paſt ſeven; when lo, at the cloſe of the evening, Sir <hi>Samuel,</hi> led by his Devotion, goes to the Temple of St. <hi>Bartholomews,</hi> behinde the Royal <hi>Exchange.</hi> In this place were met ſundry fair Ladies, hearing an ancient man ſpeak Divinity unto them. But they, who were before attentive to him, had now another Object to look upon. He came in well tir'd, his Band and half Shirt clean, his cloaths ſo in print, and worn with ſo much care, that he might well be call'd, The Glory of his Taylor. He entered with a face full of pride and diſdain, regardleſs of courting thoſe, whom he was confident his Perſon was enough to captivate. But <hi>Cupid</hi> having a mind to humble him, flies to the eyes of <hi>Don<g ref="char:EOLhyphen"/>na Elizabetha,</hi> and from thence ſhoots him to the heart. 'Tis true as <hi>Plowden</hi> ſaid, <hi>The Caſe is now alter'd:</hi> For he that but now thought no Lady good enough for him, would now kiſs this Ladies Bréech, ſo he might kiſs her hands. Thus fatally ſtruck, he departs; giving his Squire <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:93630:6"/> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> charge to dog her home, and give him an accompt of her Lodging.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> lamented his Caſe, and how he ſent a Letter to <hi>Elizabetha.</hi>
+                  </p>
+               </argument>
+               <p>SIr <hi>Samuel</hi> being got home, his heart fell a throbbing and beating; as if the <hi>Cyclops</hi> had béen making Thunder<g ref="char:EOLhyphen"/>bolts there. He fetch'd ſighs from the bottom of his Breſt, and farts from the bottom of his Belly: If he eat, it was becauſe he was an hungry; and if he drank, it was to drown ſorrow. At length, impatient of delay, he uttered his woes in this ſort: Oh moſt unfortunate of men, and moſt wretch<g ref="char:EOLhyphen"/>ed of young men! unhappy eyes! why were ye not aſléep, asléep to ſléep, your Deſtruction? To what purpoſe am I black and comely, ſtraight and proper, but that women ſhould be in love with me? and muſt I be now in love with woman? but I am in love, &amp; cannot help it for my heart and guts. O <hi>Elizabetha, Elizabetha Tottel,</hi> thou haſt undone <hi>Sa<g ref="char:EOLhyphen"/>muel Criſpe.</hi> By this time his good Squire <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> came in, and told him where his <hi>Elizabetha</hi> lay: whereupon, calling for Pen, Ink and Paper, he thus wrote unto her.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>Sir</hi> Samuel <hi>to the Fair</hi> Elizabetha.</head>
+                     <opener>
+                        <salute>MADAM,</salute>
+                     </opener>
+                     <p>MY Heart belles, yea, it is ready to ſeethe over, becauſe You have enflam'd it; O let Your Charity cool it, that it may come to its Temper again: and let not him die, that onely deſires to live to do you ſervice. I am your Pri<g ref="char:EOLhyphen"/>ſoner, captivated in the Fetters of your Hair; O ſet me at Liberty, that I may be free to wait upon you. Madam, there is no Child loves Plum Cake, no Virgin loves Cheeſ-cake
+<pb facs="tcp:93630:6"/> or Cream-tart ſo well, as I love you. Truly Madam this is truth; and therefore be not cruel to a poor worm, that muſt of neceſſity die, if trampled on by the foot of your diſdain.</p>
+                  </body>
+               </floatingText>
+               <p>Theſe words he ſealed up in perfum'd paper, and delive<g ref="char:EOLhyphen"/>red to his good Squire <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, to give unto the fair hands of his Miſtreſs. But 'tis reported, that <hi>Eliza<g ref="char:EOLhyphen"/>betha</hi> having read the Letter, gave it her Chamber-maid, bidding her make uſe of it when ſhe went next into the Garden. However, Love would not let him ſo deſiſt; and therefore, ſince he could not obtain an anſwer, he reſolves to go in perſon, as you ſhall hear in the next Chapter.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> went to viſit his <hi>Elizabetha;</hi> and how the <hi>Knight of the Cole-wharf</hi> durtied his Boot-hoſe.</p>
+               </argument>
+               <p>THus reſolved, Sir <hi>Samuel,</hi> powder'd by his Barber, trim'd by his Taylor, and Ribanded with ſuch Empha<g ref="char:EOLhyphen"/>tical Colours, that had he ſaid nothing, his Miſtreſs might have gather'd his meaning from his Codpiece, he ſets on his journey. But Oh the fate of mortal wights! what a ſad diſaſter befel him! For as he was going in the ſtréet, one of the <hi>Knights of the Cole-wharf</hi> méets him, with his Chariot laden: and as he came to the horſe-head, the horſe ſtumbling, all beſpatter'd his Boot-hoſe. 'Twas a ſad thing, to ſée thoſe white Boot-hoſe, which his Landreſs had béen one day waſhing, another day drying, and a third ſmoo<g ref="char:EOLhyphen"/>thing, all bedaubed in a minute.</p>
+               <p>He would have demanded ſatisfaction of the <hi>Knight of the Cole-wharf;</hi> but the Knight lifting up his Whip, he thought it better, ſince his Miſtreſs was not by to take no<g ref="char:EOLhyphen"/>tice of the affront, nor there to inſpire him with Valour, to go and ſhift himſelf, then to anger that man of choler, who went about to puniſh Knights, as other men puniſh dogs.
+<pb facs="tcp:93630:7"/> Home therefore goes he, ſhifts himſelf, and to prevent the like danger, hires a Coach to carry him and his garments ſafe to the place where his affections reſided.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> courted <hi>Elizabetha,</hi> and how the Chamber-maid affronted him; and what happened thereupon.</p>
+               </argument>
+               <p>SIr <hi>Samuel</hi> being now in the preſence of his Miſtreſs, though at firſt he were a little daunted at the Majeſtie of her perſon, yet finding that he muſt either ſpeak, or be counted a Puppy, for coming to viſit a Lady, and ſaying no<g ref="char:EOLhyphen"/>thing; he addreſſed himſelf, after a leg or two made in mood and figure, in theſe following words.</p>
+               <p>
+                  <hi>Madam, ſeeing the painted cloth of your vertues hang out at the window, and Fame ſtanding at the door with a Trumpet in her hand, I could not chuſe, out of a natural inclination which I have to ſights and Puppet-plays, but ſtep in and behold the monſtrouſneſs of your beauties: and now Madam I have ſeen you, I admire you more then the hairy Gentlewoman.</hi> Donna <hi>Elizabetha</hi> reply'd, That truly his perſon was very proper, and his language was ve<g ref="char:EOLhyphen"/>ry eloquent: but withal ſhe told him, that ſhe was very ſor<g ref="char:EOLhyphen"/>ry that he had put himſelf to ſo great a trouble, ſince ſhe found by him (for ſhe could ſée as far into a Milſtone as an<g ref="char:EOLhyphen"/>other) that he was not for her turn. But he confidently, as being now over ſhooes over boots, returns her anſwer, That ſhe had created love within him, and that he hoped ſhe would not cauſe it to be born and die at the ſame inſtant: and therefore he petitions her again, in theſe words: <hi>Moſt celeſtial beam of beauty, I have received you into my heart, which like a Burning-glaſs contracting the heat of your rays, is now all on fire, not to be quenched but by the moiſtning Julep of your affection; and therefore do not deny me life, ſince it is altogether in your power to give it.</hi> To which ſhe feſtingly replies, that ſhe was ſorry ſhe could not
+<pb facs="tcp:93630:7"/> ſubſcribe his petition: yet ſhe was glad to ſée him, for that ſhe never ſaw a Phenix before; which ſhe conjectured him to be, becauſe he went about to die in his flames. However, if that were not his intention, rather then he ſhould be ſcorched to death for love of her, that could not requite him, ſhe would cauſe her Maid to make water in a baſon, that he might bathe and quench his burning breſt therein. Sir <hi>Samuel</hi> thanked her, telling her withal, that any ſtream of her kindneſs would be acceptably received into his boſome. <hi>But wo is me,</hi> (ſaid he, procéeding) <hi>for I finde my words have made no more impreſſion in your heart, then an ar<g ref="char:EOLhyphen"/>row on a rock of Adamant: ſo that I may ſay of you, that as in the greeneſt graſs is the greateſt ſerpent, in the cleareſt water the uglieſt toad; ſo is your fair body lin'd with a cruel ſoul. Alas, you have no mercy on my Captivity; ſo that I am like the ſpaniel, that gnaws his chain, but ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ver ſpoils his teeth then procures liberty. But as a bladder is to a learning ſwimmer, ſo is Hope to me; which makes me apt to believe, that as there is no iron but will be ſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<g ref="char:EOLhyphen"/>ned with the fire; ſo there is no heart, how hard ſoever, that will not be ſoftned by continual prayers. Conſider, that the ſun diſdains not to ſhine upon the ſmalleſt worm. Reconcile your ſelf to the humbleſt of your vaſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls, and do not through Marble-hearted cruelty overwhelm him with ſenſe-diſtracting grief</hi>—He would have ſaid more; but <hi>Elizabetha</hi> impatient of his impertinencies, flung in great haſte out of the Room, not ſo much as ſtaying to ſee him make his retiring honour.</p>
+               <p>Being thus yenſively left alone, the Chamber-maid comes down, and ſeeing Sir <hi>Samuel</hi> in ſuch a ſad condition, ſhe ac<g ref="char:EOLhyphen"/>coſts him, telling him, that though he had not the way, yet ſhe knew how well enough to prevail with her Miſtriſs; aſſuring him withal, that for five pieces ſhe would make him poſſeſſour of the happineſs he ſought to enjoy. Sir <hi>Samuel</hi> ſhak'd his head at this, telling her, That it was for ought he knew, more then he ſhould receive for her portion; but it five ſhillings would content her, it was at her ſervice. At which words, the Maid diſcovering the pitiful humour of Sir
+<pb facs="tcp:93630:8"/> 
+                  <hi>Samuel,</hi> diſdaining his profer, called him Sad Fellow, and Mole-catcher, telling him he did not deſerve a Kitchin<g ref="char:EOLhyphen"/>wench: and as he went out of doors, ſhe pinned a ſheet of brown Paper to the Cape of his Cloak; which though it were not written, yet gave many people as he went in the ſtreets, an opportunity ſufficient to read the Character of the man.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> ſent his Miſtris a Copy of Verſes, wiſhing himſelf a Puppy-dog for his Miſtreſs ſake: which he ſent by his good Page, <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>; and how <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> got drunk before he could preſent them.</p>
+               </argument>
+               <p>SIR <hi>Samuel</hi> being thus repulſed, and at his Wits end, ſince his perſon could do nothing, he reſolves to try what his parts could do; whereupon knowing his own weakneſs, he reſolves to make uſe of helps, and to ſteal where he could and a thing proper to his purpoſe. At length, he lighted on a Copy in a Play, which pleaſed him, and which he therefore reſolved to make uſe of: The Ver<g ref="char:EOLhyphen"/>ſes, as I have heard from a good hand, were theſe.</p>
+               <lg>
+                  <l>I Swear by <hi>Muſcadel,</hi>
+                  </l>
+                  <l>That I do love thee well,</l>
+                  <l>And more then I can tell:</l>
+                  <l>By the white, Claret and Sack,</l>
+                  <l>I do love thy black, black, black,</l>
+                  <l>I do love thy black, black, black.</l>
+               </lg>
+               <lg>
+                  <l>No Goddeſs 'mong them all,</l>
+                  <l>So ſlender and ſo tall,</l>
+                  <l>And grateful too withal,</l>
+                  <pb facs="tcp:93630:8"/>
+                  <l>Which makes my ſinews to crack,</l>
+                  <l>For thy black, black, black,</l>
+                  <l>For thy dainty black, black.</l>
+               </lg>
+               <lg>
+                  <l>So lovely and ſo fair,</l>
+                  <l>Though ſhadowed with thy hair,</l>
+                  <l>So nimble juſt like Air.</l>
+                  <l>All theſe ſet me on loves wrack</l>
+                  <l>For thy black, black, black,</l>
+                  <l>For thy dainty black, black.</l>
+               </lg>
+               <lg>
+                  <l>Thy kind and cunning Eye</l>
+                  <l>When firſt I did ſpy,</l>
+                  <l>My love, it did raiſe high.</l>
+                  <l>You ſaying, What d'ye lack?</l>
+                  <l>I anſwered, Thy black, black,</l>
+                  <l>Thy dainty black, black, black.</l>
+               </lg>
+               <lg>
+                  <l>Madam, you have a pretty Puppy,</l>
+                  <l>O that I were that pretty Puppy.</l>
+                  <l>Then ſhould I be beloved of thee.</l>
+                  <l>Kiſſes from thee I ſhould not lack,</l>
+                  <l>And, lye in thy Lap near thy black, black,</l>
+                  <l>Near thy dainty black, black, black.</l>
+               </lg>
+               <p>Theſe Verſes he encloſed in a Sheet of gilt Paper, ſu<g ref="char:EOLhyphen"/>perſcribing it, <hi>To the moſt flouriſhing bud of honour, and Roſe of delight, Donna Elizabetha Tottel, theſe preſent.</hi> Thus ſuperſcribed, he delivered them to his good Squire <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, to carry unto her: but <hi>Jack</hi> thinking there was no great haſt of the buſineſs, gets into company, and falls a drinking: but at length, when the Ale had put high thoughts into his Noddle, he thought it was time to go a<g ref="char:EOLhyphen"/>bout his buſineſs: but he knowing the reſpect his Knight hare unto the Lady, when he came to preſent the Paper, fell
+<pb facs="tcp:93630:9"/> in a moſt humble manner at her feet; and having ſome<g ref="char:EOLhyphen"/>thing more to deliver to her then his Knight impoſed upon him, he ſpewed upon her ſhooes, thereby enigmatically ſet<g ref="char:EOLhyphen"/>ting forth the ſtreams of his Maſters affection: raiſed again at length upon his Legs, he began his Speech: Madam quoth he,—hickup—my Maſter—hickup—hath ſent you ſome—hickup—ſome Verſes; wherein—hickup—he hath declared—hickup—the reality—hickup—of his affections—hickup—as-plainly—hickup—as the Noſe—hickup—in your face.—The Lady <hi>Elizabetha,</hi> ſeeing the young Squire in ſuch a condition, and that he wanted lodging, cauſed him to be conveyed out of doors into the Porch, where he lay till the Watch came by: who then took him, and put him in the Round-houſe; whence being ſet at liber<g ref="char:EOLhyphen"/>ty, he went to Sir <hi>Samuel,</hi> relating to him his, and his own doleful misfortunes.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>How <hi>Sir Samuel</hi> fell in love with another Lady, and how he ſought to win her affections.</p>
+               </argument>
+               <p>SIR <hi>Samuel</hi> now finding <hi>Elizabetha</hi> ſo ſtubborn and re<g ref="char:EOLhyphen"/>fractory to his deſtres, he was reſolved to have two ſtrings to his bow. Now ſo it ſell out, that walking one day to<g ref="char:EOLhyphen"/>ward the cloſe of the evening, he eſpyed ſtanding at her door, a Lady paſſing fair and beautiful. He had already ex<g ref="char:EOLhyphen"/>perience that the Ladies were not taken with the propor<g ref="char:EOLhyphen"/>neſs of his perſon, or the comlineſs of his face. Pondering therefore upon many ways and means to attain his ends, he began to think of the great power of money. It may be, quoth he to himſelf, this Lady may want ſome Geugaws, as Gloves, Pins and Ribans; now if I ſhould furniſh her hanſomely with a ſmall ſum, certainly I ſhall eternally o<g ref="char:EOLhyphen"/>blige her heart and affections to me. In this Contempla<g ref="char:EOLhyphen"/>tion, he walks to and fro three or four times by her: at
+<pb facs="tcp:93630:9"/> length, thinking it not convenient to profer money to a Lady whom he never ſaw before in his life, he reſolved to put his coyn into a bag, and drop it as it were by accident before her. This he did in imitation of <hi>Jupiter,</hi> thinking to have enjoyed this Lady in a ſhowre of Silver, as <hi>Jove</hi> enjoyed <hi>Diana</hi> in a ſhowre of Gold. But ſuch was the miſ<g ref="char:EOLhyphen"/>fortune of this infortunate Knight, that the Lady frighted at the fall of the bag, fearing ſome Trapan, ran in adoors; leaving it to be taken up by the next Paſſenger, who ſcru<g ref="char:EOLhyphen"/>pled not to pocket up the price of Sir <hi>Samuels</hi> Love; with a reſolution doubtleſs not to put it to any ſuch frivolens uſe again. All this while Sir <hi>Samuel</hi> ſtood hugging his in<g ref="char:EOLhyphen"/>vention not far off; and at length ſeeing the Cat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtrophe, with a patience like that of <hi>Job,</hi> beheld the loſs voth of his Miſtriſs and his money, without taking any further notice thereof.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> put on a diſguiſe, and went to ſeek <hi>Eliza<g ref="char:EOLhyphen"/>betha</hi> in the Country.</p>
+               </argument>
+               <p>SIR <hi>Samuel</hi> being foil'd in this adventure, reſolves to ſeek his old <hi>Elizabetha,</hi> whoſe love could not yet be removed out of his heart: but coming to viſit her, he found her gone into the Country. Laying therefore hold of this opportu<g ref="char:EOLhyphen"/>nity to ſhew the conſtancy of his affections, he reſolves in a diſguiſe to go in purſuit of her: but what diſguiſe muſt this be? he would not put on womens clothes, for fear of being taken for a Whore, as Sir <hi>George Booth</hi> was. At length, he agréed upon the habit of a Shepherd ſwain; having read how that Love <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> commonly is clad in rural Wéeds, and lives in Cottages. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the firſt place, there<g ref="char:EOLhyphen"/>fore, he puts on a pair of Leather Breeches, and a Doublet of the ſame; his Legs he covers with courſe gréen Stock<g ref="char:EOLhyphen"/>ings; his Feet with Ruſſet Shooes; his head with an old white Hat: and thns accoutred, he leaves the ſight of <hi>Pauls</hi> Steeple.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb facs="tcp:93630:10"/>
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>How Sir <hi>Toby</hi> and <hi>Lawrence</hi> fell both in love with the ſame Lady, and how <hi>Lawrence</hi> wiſh'd the Devil take his Bro<g ref="char:EOLhyphen"/>ther Sir <hi>Toby.</hi>
+                  </p>
+               </argument>
+               <p>LEaving now Sir <hi>Samuel</hi> in the Country, let us ſee what becomes of Sir <hi>Toby,</hi> and <hi>Lawrence</hi> the younger of the thrée Brethren. Theſe two being acquainted with a Lady of great beauty, happened both to fall in love with her. Sir <hi>Toby</hi> thought he deſerved her beſt, as being the elder Brother and a Knight: <hi>Lawrence</hi> thought ſhe ought to love him beſt, as having thrown his affections firſt upon her. However, there happened great contention between them, ſo that they lived in perpetual ſtrife. <hi>Lawrence</hi> willing to reconcile the difference; <hi>Brother,</hi> ſaid he, <hi>you know how good a thing it is for Brethren to agree toge<g ref="char:EOLhyphen"/>ther: You and I, 'tis true, love one and the ſame Lady; now to reconcile this difference, I will propoſe three things to you, and let him that wins her, take her; that is, either let us play firſt come to three hits at Ticktack for her, or let us play an hundred and threeſcore up at Trap-ball for her; or let us play at puſh pin, and he that wins the firſt five pins, let him take her a Gods name.</hi> Sir <hi>Toby,</hi> though he could not but confeſs theſe three Propoſitions to be very reaſonable, yet being blinded with love, he continued obſti<g ref="char:EOLhyphen"/>nate, and would yeild to nothing: which cauſed great an<g ref="char:EOLhyphen"/>ger in <hi>Lawrence,</hi> ſo that now in all companies, he curſes his Brother, wiſhing him hang'd and at the Devil; and hath a great pick at his Mother for bringing him forth to be his Rival.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb facs="tcp:93630:10"/>
+               <head>CHAP. XI.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> return'd without ſeeing his <hi>Elizabetha,</hi> and how he had like to have been taken for a Spye.</p>
+               </argument>
+               <p>SIr <hi>Samuel,</hi> as we ſaid, being now in the Country, and having proceeded ſome two days journey, at length lighted into an Ale-houſe, where he intended to repoſe that night: but as he ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e at Supper, the good Woman of the houſe obſerving the lily whiteneſs of his hands, as alſo the ſoftneſs of his palms, and ſeeing him pull out ſome Gold out of his Pocket, thought to her ſelf that this could not be a Shepherd ſwain, but certainly ſome Prince in diſguiſe. Which cauſed the Woman, the times being then very troubleſome, loath to harbour concealed perſons contrary to the Act; and looking alſo for gain upon diſcovery, to give no<g ref="char:EOLhyphen"/>tice to the next Iuſtice, of Sir <hi>Samuels</hi> being there. Whereupon Sir <hi>Samuel</hi> was ſent for, and prudently exa<g ref="char:EOLhyphen"/>mined; for as Sir <hi>Samuel</hi> himſelf relates, they took him for the King, though others ſay, They onely took him for an ordinary Spy; which is moſt likely: the next thing they did, was to ſearch him; but finding nothing but Love-Let<g ref="char:EOLhyphen"/>ters, and a company of ridiculous Verſes about him, the Iuſtice and his Clerk agréed with him for 10 pound in Gold to diſmiſs him: And ſo his money being ſpent, he was forc'd, without beholding his Miſtriſſes Angelick Face, to return, with his purſe as empty as his head.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb facs="tcp:93630:11"/>
+               <head>CHAP. XII.</head>
+               <argument>
+                  <p>Of his adventure in a Wood near <hi>Tunbridge,</hi> and of his re<g ref="char:EOLhyphen"/>ſolution to retire into a Monaſtery.</p>
+               </argument>
+               <p>'TWas now the time of the year when there is a great re<g ref="char:EOLhyphen"/>ſort of people of both ſexes at <hi>Tunbridge,</hi> a ſmall village in <hi>Kent,</hi> famous for the purging Springs that are there found. Thither goes our Knight to make up the number of Skimmerers. Hard by, there ſtands a Wood, which Sir <hi>Samuel</hi> made his retiring place to recreat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his melan<g ref="char:EOLhyphen"/>choly thoughts. One evening, as he was muſing there, he heard the Voyce of ſome body uttering the ſad Complaints of a vexed Spirit. The Voyce cauſed him to draw near; and drawing near, he diſcovered two young Ladies ſitting in a fair green Plat, bewailing their misfortunes. Sir <hi>Samu<g ref="char:EOLhyphen"/>el</hi> moved with compaſſion, accoſts them; and having de<g ref="char:EOLhyphen"/>manded ſome queſtions of them, told them, He was a forſa<g ref="char:EOLhyphen"/>ken Lover, as he gheſſed them to be, being a Knight of the Order of <hi>Fond Love.</hi> Whereupon one of the Ladies diſcovering in his Phyſiognomie, that the man might ea<g ref="char:EOLhyphen"/>ſily be made an Aſs; <hi>Sir,</hi> quoth ſhe, caſting her ſelf at his féet, <hi>if you be ſuch a one as you pretend, have compaſſion on a diſtreſſed Lady: I have loſt my Maiden head, and prove with Child; therefore I deſire you to marry me, to take off all reproach that the world may caſt either on my Child, or my ſelf.</hi> To which Sir <hi>Samuel</hi> replyed: <hi>Ma<g ref="char:EOLhyphen"/>dam, you being a Lady, and I a Knight, I ſhould be no Knight ſhould I not be kind to you a Lady.</hi> Then quoth ſhe, <hi>Since neer relations ought to be more familiar, let us ſit down together on the graſs:</hi> to which the Knight readily conſen<g ref="char:EOLhyphen"/>ted. Then ſhe proceeding: <hi>My pretty dear,</hi> quoth ſhe, <hi>ſuppoſe that I being thy wife, ſhould ask thee for ten or twenty pieces to ſport away at Cards, would you deny it me? No, as I hope to be ſaved,</hi> anſwered Sir <hi>Samuel:</hi>
+                  <pb facs="tcp:93630:11"/> 
+                  <hi>but ſuppoſe I ſhould come and give thee a little box on the ear, and ſay, My Dear, let me ſee thy pockets, and ſo take out all thy money, wouldſt thou be angry? No indeed law,</hi> an<g ref="char:EOLhyphen"/>ſwered Sir <hi>Samuel.</hi> With that ſhe gave him a ſwéet kiſs, and putting her hand into his Fob, took out all ſhe could find; neither was ſhe ſlow to ſecure it again in her own po<g ref="char:EOLhyphen"/>ckets. Then quoth ſhe, <hi>My dear, you have rings on, which are doubtleſs the Euchantments which cauſe me and other women to love thee ſo: preethee let me ſee 'em:</hi> and ſo without more Complements, ſhe takes them off. Sir <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> who had more of courteſie then craft, ſuffered all this. The Lady now well ballaſted, of a ſuddain ſtarts up, cries out, <hi>Theeves, Theeves,</hi> and runs away as hard as ſhe could drive: Sir <hi>Samuel</hi> ran after; but at length finding them too ſwift, and conſidering that he had left his Cloak and Hat behind, he defiſted from the chaſe, for fear of looſing all. Sir <hi>Samuel</hi> all this while thought this had béen only a love<g ref="char:EOLhyphen"/>trick, and expected to hear from them next morning; but the fifth and ſixth day paſſing without any tidings, he conclu<g ref="char:EOLhyphen"/>ded himſelf puppyft'd, and curſed the day of his birth.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> counterfeited himſelf dead, to get pity from his <hi>Ebizabetha,</hi> and how he dated a Letter to her from his grave.</p>
+               </argument>
+               <p>SIR <hi>Samuel</hi> finding by this time, that neither his perſon nor his parts could move his <hi>Elizabetha,</hi> reſolved to play the crafty For, and to overcome her by ſlight. Oh the ſuttle inventions of love! for you ſhall hear what a ſtrang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Whim came into his Noddle. Said he to himſelf: Wo<g ref="char:EOLhyphen"/>men are tender Creatures, and they have ſoft and tender breaſts, and in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe tender breaſts lodgeth pity and compaſ<g ref="char:EOLhyphen"/>ſion. They will revtle and ſcorn a man at this inſtant, but let the ſame perſon cut his finger in their company, and
+<pb facs="tcp:93630:12"/> the next, they will give him the ſugar-ſwéeteſt words of pity that a Woman can give to a Man. Let a Man fain himſelf ſick for love of them, and their hearts will melt like Ice before the Fire: If then they will do ſo much for thoſe that are ſick for love, what will they not do for thoſe that ſhall dye for love: I will dye for love of <hi>Elizabetha,</hi> and cauſe her affe<g ref="char:EOLhyphen"/>ctions to come like Butter, being churmed by the compaſſi<g ref="char:EOLhyphen"/>on of her ſoul towards me. Thus reſolved, he diſpatches his good Squire <hi>Jack Waterhouſe,</hi> to deſire her to keep her ſtomack, and to preſerve the kéenneſs of her Appetite, for that he intended tomorrow to wait on her, to the Caſtle of Sir <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Admiral of <hi>Thameſis</hi> above Bridge; which being full furniſhed with Neats Tongues and Fid<g ref="char:EOLhyphen"/>lers, he doubted not but to content her, if ſhe pleaſed to go along with him. Withal he told him, That he was the happieſt Squire in the world, who was now going to viſit the beams of the Sun of Beauty. He bid him take notice alſo how ſhe entertained him, whether ſhe bluſhed juſt as he had delivered his Embaſſie; whether ſhe ſtirs &amp; is troubled when ſhe hears his name, whether ſhe repeats her anſwer twice or thrice over, and whether ſhe ſéem to order her hair though not diſordered; for that he could iudge by her actions and outward motions, whether it would be worth his while to ſpend his money on her or no. I go, ſaid <hi>Jack VVater<g ref="char:EOLhyphen"/>houſe,</hi> and will return quickly, therefore enlarge that little heart of yours, which is no bigger then a Haſle Nut, and be of good comfort. The Meſſage being at length delivered, Donna <hi>Elizabetha</hi> returns anſwer, not at all for love of Sir <hi>Samuel,</hi> but for love of the Collation, and in hope to make her ſelf merry, that ſhe know nothing to the contrary but that ſhe might be ready when he came to wait upon her. With theſe glad Tidings, back goes <hi>Jack VVaterhouſe,</hi> to chear up the ſpirits of Sir <hi>Samuel.</hi> To morrow comes, but Sir <hi>Samuel</hi> having ordered his deſigns, cannot appear himſelf; therefore he deſtres his Brother Sir <hi>Toby</hi> to go in his ſtead, and withal to entertain her at his charges; which Sir <hi>Toby</hi> out of a brotherly affection, willingly un<g ref="char:EOLhyphen"/>dertook. He was alſo deſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d to beg the fair <hi>Elizabetha's</hi>
+                  <pb facs="tcp:93630:12"/> excuſe for Sir <hi>Samuel,</hi> for that he was very ill, and kept his bed. How! ill, quoth <hi>Elizabetha,</hi> of what diſeaſe? Of Love, replyed Sir <hi>Toby:</hi> whom loves he? ſaid <hi>Elizabetha.</hi> He loves you, Madam, anſwered Sir <hi>Toby;</hi> you your ſelf are the cauſe of his Maladies; and dye doubtleſſe he muſt and will, if you continue in obſtinacy. As he was conver<g ref="char:EOLhyphen"/>ſing the Story, to confi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m the truth thereof, in comes a Letter from Sir <hi>Samuel</hi> to direct to the fair <hi>Elizabetha:</hi> it was brought by <hi>Jack VVaterhouſe,</hi> with tears in his eyes, having left his Maſter laid out in his Winding S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>et for dead. The term and purport of which Letter, was as fol<g ref="char:EOLhyphen"/>lows.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>
+                        <hi>Sir</hi> Samuel <hi>to his</hi> Elizabetha, <hi>the joy of his heart, and comfort of his hopes.</hi>
+                     </head>
+                     <opener>
+                        <salute>MADAM,</salute>
+                     </opener>
+                     <p>THe continual repulſes and denials I have recei<g ref="char:EOLhyphen"/>ved from you, have almoſt made me diſtract<g ref="char:EOLhyphen"/>ed; I have torn my hair, beaten my breſt, and bit my nails for want of your affection. In a word, the anguiſh of my ſoul is ſuch, that I am forc'd to dye; yea, I am already dead, and laid forth in my Winding ſheet, as my good Squire <hi>Jack Waterhouſe</hi> can inform you. Your diſdain hath been my bane: O how could you, the Mirrour of Courteſie, be ſo ob<g ref="char:EOLhyphen"/>durate to the Mirrour of Courteſie? Yet I am not ſo dead, but that if you would come and ſmile upon me, you might work a Miracle, which would blaze your name abroad, and revive your poor Sir <hi>Samuel.</hi> On how can you be ſo relentleſs, and Marble-hear<g ref="char:EOLhyphen"/>ted? Was not <hi>Dulcina</hi> loving to her <hi>Don Quixot?</hi> Was not <hi>Laurana</hi> courteous to her <hi>Pariſmus?</hi> And
+<pb facs="tcp:93630:13"/> can <hi>Elizabetha</hi> be unkind to her <hi>Samuel?</hi> Come then quickly before I be cold, leſt you come in vain to your</p>
+                     <closer>
+                        <salute>Dead Friend.</salute>
+                        <dateline>
+                           <hi>From my Winding Sheet,</hi> 
+                           <date>Septemb. 3. 1659.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <hi>Elizabetha</hi> having read this Letter, asked <hi>Jack VVater<g ref="char:EOLhyphen"/>houſe</hi> if his Maſter were mad; and why he troubled her with ſuch impertinence; telling him withal, That ſhe was now in good company, and could not leave them: beſides, ſhe never cared for ſéeing dead men: and therefore ſhe de<g ref="char:EOLhyphen"/>ſired <hi>Jack VVaterhouſe</hi> to bury him well; letting him know withal, that if he had left her a Legacy, ſhe was wil<g ref="char:EOLhyphen"/>ling to receive it. With this Meſſage <hi>Jack VVaterhouſe</hi> returned; and Sir <hi>Samuel</hi> ſéeing his Metropolitan De<g ref="char:EOLhyphen"/>ſigne fail him, hearing the Exchange-Bell ring, roſe again, and went about his buſineſs.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV.</head>
+               <argument>
+                  <p>How <hi>Sir Samuel</hi> diſmiſſed his Squire, and how the Squire gave a Character of his Maſter.</p>
+               </argument>
+               <p>SIR <hi>Samuel</hi> ſeeing all his tricks and quillets to be void &amp; of none effect, reſolves to leave his Knight errantry, and to put off his Squire <hi>Jack Waterhouſe;</hi> who being thereup<g ref="char:EOLhyphen"/>on deſtitute, returned again to his old Maſter Sir <hi>Channel.</hi> Now there being a great meeting of Knights and Ladies at his Caſtle, who had heard of the Adventures of Sir <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> they deſired <hi>Jack VVaterhouſe,</hi> as having béen his Squire, to give them an accompt of the man; which with little entreaties he did, in this following Character.</p>
+               <div type="part">
+                  <pb facs="tcp:93630:13"/>
+                  <head>Mr. <hi>S. C's Character.</hi>
+                  </head>
+                  <p>HE was born the Son of a Doctor of Phyſick; and if legitimately begot, without doubt, form'd by the moſt cunning Rules of that Art, be<g ref="char:EOLhyphen"/>ing in his own vain-glorious Opinion, a—ſecond <hi>Narciſſus;</hi> one of a proper Stature, joyned with an indifferent comlineſs, though a deformed dull man in wit: he was bred a kinde of a Mongrel Canary Merchant, under that old Fox <hi>Rowland Wil</hi>—to whom he proved ſuch an officious <hi>Zancha Pancha,</hi> that at the good old Man's death, he became a Qua<g ref="char:EOLhyphen"/>drate Heir to his Eſtate, and is now ſet up Knight-Errant for himſelf; and to make that Calling the more laudable, he has mask'd himſelf with a ſuper<g ref="char:EOLhyphen"/>ficious Devotion, being much given to the viſiting of all ſorts of Sects and Churches, though farre better read in the Ladies Faces he there ſees, then in the Explication of the Speakers or Preachers Text he there hears: however, by this holy Hunting, he has much added to his Parts, and fitted himſelf for all Ladies companies (except inchanted) by attain<g ref="char:EOLhyphen"/>ing to an extemporary ſinging, though by a Sacri<g ref="char:EOLhyphen"/>legious ſtealing of the greateſt part of the Pariſh-Clarks Tunes in <hi>London:</hi> he dances ſo well, as that you may know he has payed his enterance and quar<g ref="char:EOLhyphen"/>teridge to a Maſter of that Science: he is ingeniouſly witty for the inventing of Love-Plots and Deſignes: for his own wandring and Fantaſtick Affection, and more prudent mens ſport and laughter, he has
+<pb facs="tcp:93630:14"/> almoſt run through as many unfortunate and apiſh Adventures to obtain his fair <hi>Elizabetha,</hi> as renown<g ref="char:EOLhyphen"/>ed Don <hi>Quixot</hi> did for his foul <hi>Dulcina.</hi> He is one that often thinks on his death, having already fitted his <hi>Corpuſculum</hi> to a Winding ſheet. He is one of a ſingle humility, and that to a Miſtrifs, for whom he had rather be metamorphoſed to a Puppy-Dog, then diſpleaſe her. He wears goods Cloathes, and thoſe various and faſhionable: yet he holds it great Prudence ſometimes to borrow a Country Clowns leather Breeches to court his Mopſa in. His greateſt miſery is, that only Cavalier Ladies affect him, and that his Cockney humour bears as much malice to people of ſo good a quality, as the Devil does Ami<g ref="char:EOLhyphen"/>ty to Roundheads, and the Good Old Cauſe. He is never valorous but in womans Company; and if confidently aſſaulted by them (as in <hi>Tunbridge</hi> wood) yeilds immediately the treaſure of his Pockets to them, for to buy Candles to ſit by and laugh at him for a Coward. He is very unfortunate in his elder Brother being held handſomer then himſelf; often<g ref="char:EOLhyphen"/>times having fallen moſt deſperately in love with thoſe Mopſa's and Miſoes that were ready to ſtran<g ref="char:EOLhyphen"/>gle themſelves for ſweet <hi>Toby.</hi> In fine, he is his own and ridiculous <hi>Don Quixots</hi> Heir, the Ladies Whelp, every Mans Fool, the Bookſellers Outlary, and the Earths Burden.</p>
+               </div>
+            </div>
+            <div n="15" type="chapter">
+               <pb facs="tcp:93630:14"/>
+               <head>CHAP. XV.</head>
+               <argument>
+                  <p>How Sir <hi>Samuel</hi> may go hang himſelf, if he pleaſes.</p>
+               </argument>
+               <p>THus, gentle Reader, do I put period to the Misfortunes of our unfortunate Knight: I have given thee a large accompt of his Life; it is truly ſummed up unto thée. Now being thus abuſed in the Country, laughed at in the City, deſpiſed and ſcorned both in City and Country; unpitied by Ladies, uncompaſsionated by Men; what remains for him to do? Nothing that I know of, but onely to take a Rope, yea, a new Rope, even a new two-peny Rope, and hang him<g ref="char:EOLhyphen"/>ſelf; ſo ſhall he die revenging himſelf upon his Enemies, by depriding them of the Subject of their mirth and laughter.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
